@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Plantilla</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="grabaaudio">Graba</string>
+    <string name="reproduceaudio">Reproduce</string>
+    <string name="paragrabacion">Para</string>
+
+</resources>
